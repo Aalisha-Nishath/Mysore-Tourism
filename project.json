@@ -1,0 +1,22 @@
+{
+  "overview": "A tourism promotion app for Mysore showcasing 12+ popular tourist attractions with preloaded data including entry fees, opening hours, nearby hotels, and detailed descriptions. Helps visitors explore and plan their trip to Mysore.",
+  "features": [
+    "Browse 12+ Mysore tourist attractions with photos and details",
+    "Filter by attraction type (palace, temple, garden, zoo, etc.)",
+    "Search attractions by name in real time",
+    "Entry fee info with Indian and foreign visitor rates",
+    "Nearby hotel recommendations with price range and ratings",
+    "Responsive design for desktop, tablet, and mobile"
+  ],
+  "category": "travel",
+  "tags": [
+    "tourism",
+    "travel",
+    "mysore",
+    "india",
+    "attractions",
+    "hotels",
+    "guide"
+  ],
+  "last_updated": "2026-04-13T16:40:35.324Z"
+}
